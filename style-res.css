@@ -1,0 +1,15 @@
+@media(max-width: 1200px){
+    .text-columns{
+        column-count: 1;    
+        padding: 1em;
+    }
+
+    .third-section{
+        padding: 1em;
+    }
+
+    .cards-text{
+        padding: 1%;
+    }
+
+}
